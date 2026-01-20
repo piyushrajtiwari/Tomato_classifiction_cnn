@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+fastapi_tf/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled binaries
+*.pyd
+*.dll
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+kaggle.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
